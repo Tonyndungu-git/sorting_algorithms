@@ -1,2 +1,2 @@
-#Sorting Algorithms
+# Sorting Algorithms \
 Differnt sorting algorithms in c.
